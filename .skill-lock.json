@@ -18,9 +18,216 @@
       "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
       "installedAt": "2026-01-27T02:51:35.974Z",
       "updatedAt": "2026-01-28T03:45:45.138Z"
+    },
+    "threejs-lighting": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-lighting/SKILL.md",
+      "skillFolderHash": "1a3d8f6fd58d38f7978be27790b959e1dbebf39d",
+      "installedAt": "2026-02-06T03:41:13.545Z",
+      "updatedAt": "2026-02-06T03:41:13.545Z"
+    },
+    "threejs-animation": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-animation/SKILL.md",
+      "skillFolderHash": "0e5c91a99a4838307f8a46d8178d6cd2e0fd3af0",
+      "installedAt": "2026-02-06T03:41:57.136Z",
+      "updatedAt": "2026-02-06T03:41:57.136Z"
+    },
+    "threejs-fundamentals": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-fundamentals/SKILL.md",
+      "skillFolderHash": "918e26abdcc434d3ef7563043a25a97a6209b411",
+      "installedAt": "2026-02-06T03:42:13.507Z",
+      "updatedAt": "2026-02-06T03:42:13.507Z"
+    },
+    "threejs-shaders": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-shaders/SKILL.md",
+      "skillFolderHash": "5b8907aa3a6497db9281a6a6b4f76437ad78faee",
+      "installedAt": "2026-02-06T03:42:31.788Z",
+      "updatedAt": "2026-02-06T03:42:31.788Z"
+    },
+    "threejs-materials": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-materials/SKILL.md",
+      "skillFolderHash": "c063dc0ffc95c7cf2bbfc183967c5dda9ac93df7",
+      "installedAt": "2026-02-06T03:43:05.152Z",
+      "updatedAt": "2026-02-06T03:43:05.152Z"
+    },
+    "threejs-interaction": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-interaction/SKILL.md",
+      "skillFolderHash": "a977e017c2f4f393534b301c8f619183f44c5228",
+      "installedAt": "2026-02-06T03:43:48.790Z",
+      "updatedAt": "2026-02-06T03:43:48.790Z"
+    },
+    "threejs-geometry": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-geometry/SKILL.md",
+      "skillFolderHash": "a8b8defe755f4505ac0258863e05727e37ce056f",
+      "installedAt": "2026-02-06T03:44:26.688Z",
+      "updatedAt": "2026-02-06T03:44:26.688Z"
+    },
+    "threejs-textures": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-textures/SKILL.md",
+      "skillFolderHash": "0931e05e06091787935ef83a33d25a7e58772b73",
+      "installedAt": "2026-02-06T03:44:43.106Z",
+      "updatedAt": "2026-02-06T03:44:43.106Z"
+    },
+    "threejs-loaders": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-loaders/SKILL.md",
+      "skillFolderHash": "ce4ab5647b2584a3b8b12d9a6f23604cfc59ca50",
+      "installedAt": "2026-02-06T03:44:59.391Z",
+      "updatedAt": "2026-02-06T03:44:59.391Z"
+    },
+    "threejs-postprocessing": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-postprocessing/SKILL.md",
+      "skillFolderHash": "699f67f0c2f4d50cd493b03c895e0074f7b47a7f",
+      "installedAt": "2026-02-06T03:45:15.316Z",
+      "updatedAt": "2026-02-06T03:45:15.316Z"
+    },
+    "component-refactoring": {
+      "source": "langgenius/dify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/langgenius/dify.git",
+      "skillPath": ".agents/skills/component-refactoring/SKILL.md",
+      "skillFolderHash": "c026bdb66e13273e56d2d3599db478ddd42a7940",
+      "installedAt": "2026-02-06T03:48:41.370Z",
+      "updatedAt": "2026-02-06T03:48:41.370Z"
+    },
+    "frontend-code-review": {
+      "source": "langgenius/dify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/langgenius/dify.git",
+      "skillPath": ".agents/skills/frontend-code-review/SKILL.md",
+      "skillFolderHash": "60482732c2f02d08387927cef66619ddf903b5b5",
+      "installedAt": "2026-02-06T09:46:10.830Z",
+      "updatedAt": "2026-02-06T09:46:10.830Z"
+    },
+    "expo-app-design": {
+      "source": "skillcreatorai/ai-agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/skillcreatorai/ai-agent-skills.git",
+      "skillPath": "skills/expo-app-design/SKILL.md",
+      "skillFolderHash": "e0ea2157c812fe837a24bdaa472dfa5c4ce83b75",
+      "installedAt": "2026-02-06T09:46:38.058Z",
+      "updatedAt": "2026-02-06T09:46:38.058Z"
+    },
+    "expo-deployment": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/expo-deployment/skills/expo-deployment/SKILL.md",
+      "skillFolderHash": "1b85cb69d451371559ff6af4f08283a0a6679d1c",
+      "installedAt": "2026-02-06T09:47:08.235Z",
+      "updatedAt": "2026-02-06T09:47:08.235Z"
+    },
+    "frontend-testing": {
+      "source": "langgenius/dify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/langgenius/dify.git",
+      "skillPath": ".agents/skills/frontend-testing/SKILL.md",
+      "skillFolderHash": "6caa2c125be63c51627963bc2cd325b9f01636da",
+      "installedAt": "2026-02-06T09:48:09.179Z",
+      "updatedAt": "2026-02-06T09:48:09.179Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "079b06a135401704ea94ab74c7c9d86c92ba259f",
+      "installedAt": "2026-02-06T09:48:32.451Z",
+      "updatedAt": "2026-02-06T09:48:32.451Z"
+    },
+    "upgrading-expo": {
+      "source": "expo/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/expo/skills.git",
+      "skillPath": "plugins/upgrading-expo/skills/upgrading-expo/SKILL.md",
+      "skillFolderHash": "8c156bf885c5068adf346d743822199d1b66989d",
+      "installedAt": "2026-02-06T09:49:22.487Z",
+      "updatedAt": "2026-02-06T09:49:22.487Z"
+    },
+    "typescript-advanced-types": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/typescript-advanced-types/SKILL.md",
+      "skillFolderHash": "782e78a277e639718b0f9fec905ca51bb16a5a95",
+      "installedAt": "2026-02-06T09:49:37.078Z",
+      "updatedAt": "2026-02-06T09:49:37.078Z"
+    },
+    "tanstack-query": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jezweb/claude-skills.git",
+      "skillPath": "skills/tanstack-query/SKILL.md",
+      "skillFolderHash": "819addb432177a1e8fbf7bdb75d7c51daf69133e",
+      "installedAt": "2026-02-06T09:50:00.597Z",
+      "updatedAt": "2026-02-06T09:50:00.597Z"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "skillFolderHash": "acbec32115ca1776b32dad36c0c84587a4022d32",
+      "installedAt": "2026-02-06T09:50:14.020Z",
+      "updatedAt": "2026-02-06T09:50:14.020Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-02-06T09:51:59.149Z",
+      "updatedAt": "2026-02-06T09:51:59.149Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "986c64ad9b8e196a4a737c01872c2eda790daba1",
+      "installedAt": "2026-02-06T09:52:10.493Z",
+      "updatedAt": "2026-02-06T09:52:10.493Z"
     }
   },
   "dismissed": {
     "findSkillsPrompt": true
-  }
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "claude-code"
+  ]
 }
